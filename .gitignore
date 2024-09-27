@@ -1,0 +1,73 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python-specific logs and cache files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.tmp
+*.mo
+
+# Unit test / coverage reports
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.cache
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# PEP 582 / `__pypackages__` folder
+__pypackages__/
+
+# mypy type-checker reports
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Bandit security reports
+.bandit/
+
+# Profiling data
+.prof
+
+# pytest cache
+.pytest_cache/
+
+# Ignore zip files
+*.zip
+
+# Ignore docx files
+*.docx
+
+hw6/
